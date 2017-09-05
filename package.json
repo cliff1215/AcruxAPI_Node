@@ -1,0 +1,19 @@
+{
+  "name": "09_acrux_api",
+  "version": "1.0.0",
+  "description": "The REST API for acrux PACS system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iksoo Choi",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "moment": "^2.18.1",
+    "mysql2": "^1.4.2",
+    "sequelize": "^4.8.0"
+  }
+}
